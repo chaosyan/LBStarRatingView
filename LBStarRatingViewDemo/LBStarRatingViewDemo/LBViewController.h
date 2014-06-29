@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-@protocol StarRatingViewDelegate;
+#import "LBStarRatingView.h"
+
 @interface LBViewController : UIViewController<StarRatingViewDelegate>
 @property (weak, nonatomic) IBOutlet UILabel *scorelabel;
 

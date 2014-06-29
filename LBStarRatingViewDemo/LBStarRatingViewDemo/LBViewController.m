@@ -21,7 +21,7 @@
     
     LBStarRatingView *starRatingView = [[LBStarRatingView alloc] initWithFrame:CGRectMake(20, 100, 250, 50) numberOfStar:5];
     starRatingView.delegate = self;
-    starRatingView.changeNode = 3;
+    starRatingView.changeNode = 1;
     [self.view addSubview:starRatingView];
 }
 
