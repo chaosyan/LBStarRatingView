@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3C79115A-3AC1-45E0-BC5B-2A47B97920B9</string>
+	<string>0C8EC945-64EA-4EA9-952E-92781AF8F57C</string>
 	<key>IDESourceControlProjectName</key>
-	<string>LBStarRatingView</string>
+	<string>LBStarRatingViewDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>E060E74D-8062-405D-83F3-33B62647761C</key>
 		<string>https://github.com/chaosyan/LBStarRatingView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>LBStarRatingView/LBStarRatingView.xcodeproj/project.xcworkspace</string>
+	<string>LBStarRatingViewDemo/LBStarRatingViewDemo.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>E060E74D-8062-405D-83F3-33B62647761C</key>

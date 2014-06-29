@@ -1,6 +1,6 @@
 //
-//  LBStarRatingViewTests.m
-//  LBStarRatingViewTests
+//  LBStarRatingViewDemoTests.m
+//  LBStarRatingViewDemoTests
 //
 //  Created by 闫 超杰 on 29/6/14.
 //  Copyright (c) 2014年 Labin. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface LBStarRatingViewTests : XCTestCase
+@interface LBStarRatingViewDemoTests : XCTestCase
 
 @end
 
-@implementation LBStarRatingViewTests
+@implementation LBStarRatingViewDemoTests
 
 - (void)setUp
 {

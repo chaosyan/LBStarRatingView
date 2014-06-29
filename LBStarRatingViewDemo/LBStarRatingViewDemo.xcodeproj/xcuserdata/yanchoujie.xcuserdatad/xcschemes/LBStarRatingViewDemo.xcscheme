@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "843F1B19195FFF8800F8E94D"
-               BuildableName = "LBStarRatingView.app"
-               BlueprintName = "LBStarRatingView"
-               ReferencedContainer = "container:LBStarRatingView.xcodeproj">
+               BlueprintIdentifier = "843F1B5A1960004A00F8E94D"
+               BuildableName = "LBStarRatingViewDemo.app"
+               BlueprintName = "LBStarRatingViewDemo"
+               ReferencedContainer = "container:LBStarRatingViewDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "843F1B3A195FFF8800F8E94D"
-               BuildableName = "LBStarRatingViewTests.xctest"
-               BlueprintName = "LBStarRatingViewTests"
-               ReferencedContainer = "container:LBStarRatingView.xcodeproj">
+               BlueprintIdentifier = "843F1B7B1960004A00F8E94D"
+               BuildableName = "LBStarRatingViewDemoTests.xctest"
+               BlueprintName = "LBStarRatingViewDemoTests"
+               ReferencedContainer = "container:LBStarRatingViewDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "843F1B19195FFF8800F8E94D"
-            BuildableName = "LBStarRatingView.app"
-            BlueprintName = "LBStarRatingView"
-            ReferencedContainer = "container:LBStarRatingView.xcodeproj">
+            BlueprintIdentifier = "843F1B5A1960004A00F8E94D"
+            BuildableName = "LBStarRatingViewDemo.app"
+            BlueprintName = "LBStarRatingViewDemo"
+            ReferencedContainer = "container:LBStarRatingViewDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "843F1B19195FFF8800F8E94D"
-            BuildableName = "LBStarRatingView.app"
-            BlueprintName = "LBStarRatingView"
-            ReferencedContainer = "container:LBStarRatingView.xcodeproj">
+            BlueprintIdentifier = "843F1B5A1960004A00F8E94D"
+            BuildableName = "LBStarRatingViewDemo.app"
+            BlueprintName = "LBStarRatingViewDemo"
+            ReferencedContainer = "container:LBStarRatingViewDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "843F1B19195FFF8800F8E94D"
-            BuildableName = "LBStarRatingView.app"
-            BlueprintName = "LBStarRatingView"
-            ReferencedContainer = "container:LBStarRatingView.xcodeproj">
+            BlueprintIdentifier = "843F1B5A1960004A00F8E94D"
+            BuildableName = "LBStarRatingViewDemo.app"
+            BlueprintName = "LBStarRatingViewDemo"
+            ReferencedContainer = "container:LBStarRatingViewDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

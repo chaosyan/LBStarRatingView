@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>LBStarRatingView.xcscheme</key>
+		<key>LBStarRatingViewDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>843F1B19195FFF8800F8E94D</key>
+		<key>843F1B5A1960004A00F8E94D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>843F1B3A195FFF8800F8E94D</key>
+		<key>843F1B7B1960004A00F8E94D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
