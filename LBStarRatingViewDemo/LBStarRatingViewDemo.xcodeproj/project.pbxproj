@@ -21,11 +21,11 @@
 		843F1B801960004A00F8E94D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 843F1B621960004A00F8E94D /* UIKit.framework */; };
 		843F1B881960004A00F8E94D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 843F1B861960004A00F8E94D /* InfoPlist.strings */; };
 		843F1B8A1960004A00F8E94D /* LBStarRatingViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 843F1B891960004A00F8E94D /* LBStarRatingViewDemoTests.m */; };
-		843F1B961960007C00F8E94D /* LBStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 843F1B951960007C00F8E94D /* LBStarRatingView.m */; };
-		843F1B9B1960023900F8E94D /* backgroundStar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843F1B981960023900F8E94D /* backgroundStar@2x.png */; };
-		843F1B9C1960023900F8E94D /* darkbackgroundStar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843F1B991960023900F8E94D /* darkbackgroundStar@2x.png */; };
-		843F1B9D1960023900F8E94D /* foregroundStar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843F1B9A1960023900F8E94D /* foregroundStar@2x.png */; };
 		8448D5571EAA5779009598BA /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8448D5561EAA5779009598BA /* Launch Screen.storyboard */; };
+		8448D55F1EAA5A44009598BA /* backgroundStar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8448D55A1EAA5A44009598BA /* backgroundStar@2x.png */; };
+		8448D5601EAA5A44009598BA /* darkbackgroundStar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8448D55B1EAA5A44009598BA /* darkbackgroundStar@2x.png */; };
+		8448D5611EAA5A44009598BA /* foregroundStar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8448D55C1EAA5A44009598BA /* foregroundStar@2x.png */; };
+		8448D5621EAA5A44009598BA /* LBStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8448D55E1EAA5A44009598BA /* LBStarRatingView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,12 +58,12 @@
 		843F1B851960004A00F8E94D /* LBStarRatingViewDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LBStarRatingViewDemoTests-Info.plist"; sourceTree = "<group>"; };
 		843F1B871960004A00F8E94D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		843F1B891960004A00F8E94D /* LBStarRatingViewDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LBStarRatingViewDemoTests.m; sourceTree = "<group>"; };
-		843F1B941960007C00F8E94D /* LBStarRatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LBStarRatingView.h; sourceTree = "<group>"; };
-		843F1B951960007C00F8E94D /* LBStarRatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LBStarRatingView.m; sourceTree = "<group>"; };
-		843F1B981960023900F8E94D /* backgroundStar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "backgroundStar@2x.png"; sourceTree = "<group>"; };
-		843F1B991960023900F8E94D /* darkbackgroundStar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkbackgroundStar@2x.png"; sourceTree = "<group>"; };
-		843F1B9A1960023900F8E94D /* foregroundStar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "foregroundStar@2x.png"; sourceTree = "<group>"; };
 		8448D5561EAA5779009598BA /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		8448D55A1EAA5A44009598BA /* backgroundStar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "backgroundStar@2x.png"; sourceTree = "<group>"; };
+		8448D55B1EAA5A44009598BA /* darkbackgroundStar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkbackgroundStar@2x.png"; sourceTree = "<group>"; };
+		8448D55C1EAA5A44009598BA /* foregroundStar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "foregroundStar@2x.png"; sourceTree = "<group>"; };
+		8448D55D1EAA5A44009598BA /* LBStarRatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LBStarRatingView.h; sourceTree = "<group>"; };
+		8448D55E1EAA5A44009598BA /* LBStarRatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LBStarRatingView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +93,7 @@
 		843F1B521960004A00F8E94D = {
 			isa = PBXGroup;
 			children = (
-				843F1B931960006800F8E94D /* LBStarRatingView */,
+				8448D5581EAA5A44009598BA /* LBStarRatingView */,
 				843F1B641960004A00F8E94D /* LBStarRatingViewDemo */,
 				843F1B831960004A00F8E94D /* LBStarRatingViewDemoTests */,
 				843F1B5D1960004A00F8E94D /* Frameworks */,
@@ -165,22 +165,22 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		843F1B931960006800F8E94D /* LBStarRatingView */ = {
+		8448D5581EAA5A44009598BA /* LBStarRatingView */ = {
 			isa = PBXGroup;
 			children = (
-				843F1B971960023900F8E94D /* Image */,
-				843F1B941960007C00F8E94D /* LBStarRatingView.h */,
-				843F1B951960007C00F8E94D /* LBStarRatingView.m */,
+				8448D5591EAA5A44009598BA /* Image */,
+				8448D55D1EAA5A44009598BA /* LBStarRatingView.h */,
+				8448D55E1EAA5A44009598BA /* LBStarRatingView.m */,
 			);
 			path = LBStarRatingView;
 			sourceTree = "<group>";
 		};
-		843F1B971960023900F8E94D /* Image */ = {
+		8448D5591EAA5A44009598BA /* Image */ = {
 			isa = PBXGroup;
 			children = (
-				843F1B981960023900F8E94D /* backgroundStar@2x.png */,
-				843F1B991960023900F8E94D /* darkbackgroundStar@2x.png */,
-				843F1B9A1960023900F8E94D /* foregroundStar@2x.png */,
+				8448D55A1EAA5A44009598BA /* backgroundStar@2x.png */,
+				8448D55B1EAA5A44009598BA /* darkbackgroundStar@2x.png */,
+				8448D55C1EAA5A44009598BA /* foregroundStar@2x.png */,
 			);
 			path = Image;
 			sourceTree = "<group>";
@@ -262,12 +262,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				843F1B9B1960023900F8E94D /* backgroundStar@2x.png in Resources */,
+				8448D5601EAA5A44009598BA /* darkbackgroundStar@2x.png in Resources */,
 				843F1B771960004A00F8E94D /* Images.xcassets in Resources */,
-				843F1B9C1960023900F8E94D /* darkbackgroundStar@2x.png in Resources */,
+				8448D55F1EAA5A44009598BA /* backgroundStar@2x.png in Resources */,
 				843F1B691960004A00F8E94D /* InfoPlist.strings in Resources */,
 				843F1B721960004A00F8E94D /* Main.storyboard in Resources */,
-				843F1B9D1960023900F8E94D /* foregroundStar@2x.png in Resources */,
+				8448D5611EAA5A44009598BA /* foregroundStar@2x.png in Resources */,
 				8448D5571EAA5779009598BA /* Launch Screen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,7 +288,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				843F1B6F1960004A00F8E94D /* LBAppDelegate.m in Sources */,
-				843F1B961960007C00F8E94D /* LBStarRatingView.m in Sources */,
+				8448D5621EAA5A44009598BA /* LBStarRatingView.m in Sources */,
 				843F1B6B1960004A00F8E94D /* main.m in Sources */,
 				843F1B751960004A00F8E94D /* LBViewController.m in Sources */,
 			);
