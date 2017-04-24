@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "LBStarRatingView"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "LBStarRatingView 简单有效的 评价小星星 的 控件 "
 
   s.homepage     = "https://github.com/chaosyan/LBStarRatingView"
