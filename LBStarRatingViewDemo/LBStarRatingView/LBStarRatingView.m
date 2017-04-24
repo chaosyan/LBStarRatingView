@@ -34,9 +34,11 @@
 {
     self = [super initWithFrame:frame];
     if (self) {
+     
         _numberOfStar = number;
         self.starBackgroundView = [self buidlStarViewWithImageName:@"backgroundStar"];
         self.starForegroundView = [self buidlStarViewWithImageName:@"darkbackgroundStar"];
+        
         [self addSubview:self.starBackgroundView];
         [self addSubview:self.starForegroundView];
     }
@@ -53,6 +55,7 @@
     {
         [self changeStarForegroundViewWithPoint:point];
     }
+    
 }
 
 - (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event
