@@ -70,8 +70,7 @@
      {
          [weekSelf changeStarForegroundViewWithPoint:point];
      }
-                    completion:^(BOOL finished)
-     {
+                    completion:^(BOOL finished){
          
      }];
 }

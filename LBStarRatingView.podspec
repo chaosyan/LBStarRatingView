@@ -4,9 +4,11 @@ Pod::Spec.new do |s|
 
 
   s.name         = "LBStarRatingView"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "LBStarRatingView 简单有效的 评价小星星 的 控件 "
-
+  s.description  = <<-DESC
+        循环滚动播放图片,自动播放,手动播放
+                   DESC
   s.homepage     = "https://github.com/chaosyan/LBStarRatingView"
 
 
